@@ -1,0 +1,26 @@
+[
+  {
+    "book": {
+      "price": "10000",
+      "author": "Ngoc Quy",
+      "name": "Java Core",
+      "Id": "A01"
+    }
+  },
+  {
+    "book": {
+      "price": "20000",
+      "author": "Ngoc Quy",
+      "name": "PHP",
+      "Id": "A02"
+    }
+  },
+  {
+    "book": {
+      "price": "30000",
+      "author": "Ngoc Quy",
+      "name": "Javascript",
+      "Id": "A03"
+    }
+  }
+]
